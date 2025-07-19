@@ -60,7 +60,7 @@ header .navbar-brand{
  border: none;
 }
 [placeholder]{
-    text-align: end;
+     text-align: start;
 }
 
 
